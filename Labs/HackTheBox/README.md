@@ -1,5 +1,9 @@
 # 🔵 Hack The Box — Registro de aprendizaje
 
+Aquí documento los módulos que he completado en Hack The Box Academy y lo que significan en mi formación en ciberseguridad.
+
+
+
 En Hack The Box Academy he trabajado principalmente en módulos introductorios y fundamentales, enfocados en comprender cómo funcionan los sistemas, las redes y las pruebas de seguridad desde una perspectiva técnica y estructurada.
 
 A continuación documento los badges obtenidos y lo que representan en mi formación:
