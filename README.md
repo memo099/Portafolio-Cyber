@@ -33,18 +33,7 @@ Soy estudiante de Ingeniería en Inteligencia de Datos y Ciberseguridad con inte
 
 ---
 
-## 📌 Proyectos y casos prácticos  
 
-### Caso 1 — Despacho jurídico pequeño  
-**Problema:** Red sin contraseña fuerte y sin respaldo de archivos.  
-**Solución:** Configuré red segura, red de invitados y backups automáticos.  
-**Resultado:** Red más segura y menor riesgo de pérdida de información.  
-
-### Caso 2 — Oficina familiar  
-**Problema:** Uso de contraseñas repetidas en múltiples cuentas.  
-**Solución:** Implementé gestor de contraseñas y brindé capacitación básica.  
-
-*(Más adelante podrás sustituir estos ejemplos por casos reales con tus tíos o clientes.)*  
 
 ---
 
