@@ -31,7 +31,7 @@ Soy estudiante de Ingeniería en Inteligencia de Datos y Ciberseguridad con inte
 - Capacitación para identificar amenazas  
 - Guía práctica de señales de alerta  
 
----
+
 
 
 
@@ -57,6 +57,6 @@ Soy estudiante de Ingeniería en Inteligencia de Datos y Ciberseguridad con inte
 
 ## 📬 Contacto  
 
-- GitHub: https://github.com/tu-usuario  
+- GitHub: https://github.com/memo099
 - LinkedIn: www.linkedin.com/in/guillermo-alejandro-hernandez-sosa-a2744429a  
 - Correo: ghsosa02@gmail.com
