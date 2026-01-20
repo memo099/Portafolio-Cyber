@@ -58,5 +58,5 @@ Soy estudiante de Ingeniería en Inteligencia de Datos y Ciberseguridad con inte
 ## 📬 Contacto  
 
 - GitHub: https://github.com/tu-usuario  
-- LinkedIn: (pon tu link aquí si ya tienes)  
-- Correo: (opcional)
+- LinkedIn: www.linkedin.com/in/guillermo-alejandro-hernandez-sosa-a2744429a  
+- Correo: ghsosa02@gmail.com
