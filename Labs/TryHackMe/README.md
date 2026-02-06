@@ -16,14 +16,78 @@ A continuación documento los reconocimientos obtenidos y lo que representan en 
 
 ## 🎯 Logros en TryHackMe
 
-### **Pentesting Principles**
-- **Módulo:** Introduction to Pentesting  
-- **Qué aprendí:**  
-  - Qué es una prueba de penetración y sus fases principales  
-  - Diferencia entre hacking ético y actividad maliciosa  
-  - Reconocimiento básico y pensamiento ofensivo responsable  
-- **Cómo lo aplico:**  
-  - Me ayuda a entender cómo piensa un atacante y, por lo tanto, cómo prevenir riesgos en redes y sistemas reales.
+
+---
+
+## 🏅 Badges y Learning Paths obtenidos
+
+### Pre Security — Learning Path
+
+- **Ruta:** Pre Security Learning Path
+- **Duración:** 7h 38m
+- **Qué cubre:**
+  - Fundamentos de redes
+  - Fundamentos de Linux
+  - Cómo funciona la web
+  - Conceptos base de ciberseguridad
+
+**Cómo lo aplico:**  
+Me permite entender desde cero cómo se comunican los sistemas, cómo funcionan los servidores y dónde pueden existir configuraciones inseguras.
+
+---
+
+### cat linux.txt — Linux Competency
+
+- **Qué demuestra:** Competencia práctica en Linux
+- **Qué aprendí:**
+  - Navegación en sistema de archivos
+  - Permisos
+  - Procesos
+  - Comandos esenciales para análisis y administración
+
+**Cómo lo aplico:**  
+Es base directa para análisis forense, revisión de sistemas y pruebas de seguridad en entornos Linux.
+
+---
+
+### Networking Nerd — Network Fundamentals
+
+- **Módulo:** Network Fundamentals
+- **Qué aprendí:**
+  - Modelo OSI y TCP/IP
+  - Puertos, protocolos y servicios
+  - Cómo se comunican los dispositivos en red
+
+**Cómo lo aplico:**  
+Me permite entender resultados de escaneos con Nmap, tráfico de red y detectar configuraciones inseguras.
+
+---
+
+### World Wide Web — How The Web Works
+
+- **Módulo:** How the Web Works
+- **Qué aprendí:**
+  - HTTP/HTTPS
+  - Servidores y clientes
+  - Solicitudes web
+  - Estructura de aplicaciones web
+
+**Cómo lo aplico:**  
+Base para detectar vulnerabilidades web y entender ataques como XSS, SQLi y fallas de configuración.
+
+---
+
+### Webbed — Understanding the Web
+
+- **Qué demuestra:** Comprensión integral del funcionamiento de la web
+- **Qué refuerza:**
+  - Comunicación cliente-servidor
+  - Flujo de peticiones web
+  - Estructura de servicios web
+
+**Cómo lo aplico:**  
+Me ayuda a identificar rápidamente puntos débiles en aplicaciones web y servicios expuestos.
+
 
 
 
