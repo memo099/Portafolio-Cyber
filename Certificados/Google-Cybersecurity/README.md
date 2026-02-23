@@ -37,4 +37,4 @@ Incluye práctica técnica, laboratorios y evaluaciones aplicadas.
 - Badges por curso disponibles en Coursera
 
 🔗 **Verificación:**  
-https://coursera.org/verify/professional-cert/D6WWSZHEARDG
+(https://coursera.org/share/40af707914d72636d7c8923f85debca6)
