@@ -22,3 +22,12 @@ sin afectar sistemas reales.
 
 ## Estado
 🟡 En progreso
+
+
+## Hallazgos iniciales
+El análisis de puertos y servicios reveló una exposición extensa de servicios críticos,
+incluyendo protocolos inseguros, aplicaciones web vulnerables y servicios de acceso
+remoto mal configurados.
+
+Estos hallazgos indican un alto riesgo de compromiso y justifican la realización
+de un análisis más profundo sobre servicios específicos.
