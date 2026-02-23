@@ -5,4 +5,9 @@
 - Red: NAT (GNOME Boxes)
 
 ## Observaciones iniciales
-Pendiente de análisis.
+## Paso 1 — Verificación de conectividad
+**Acción:** Se realizó una prueba de conectividad ICMP desde la máquina atacante (192.168.124.35) hacia el sistema objetivo (192.168.124.245).  
+**Resultado:** La máquina respondió correctamente a las solicitudes ICMP.  
+**Análisis:** La comunicación entre ambos sistemas es exitosa, permitiendo continuar con el reconocimiento del sistema objetivo.
+
+
