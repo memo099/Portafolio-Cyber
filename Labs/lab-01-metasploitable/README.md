@@ -218,8 +218,9 @@ A través de las fases de reconocimiento, enumeración, explotación y análisis
 Este tipo de ejercicios permite comprender la importancia de mantener los sistemas actualizados, minimizar la superficie de ataque y aplicar buenas prácticas de seguridad en los servicios expuestos a la red.
 */
 
+---
 
-Network Lab Topology
+#Network Lab Topology
 
                 Virtual Lab Network
         ------------------------------------
