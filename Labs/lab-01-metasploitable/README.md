@@ -220,7 +220,7 @@ Este tipo de ejercicios permite comprender la importancia de mantener los sistem
 
 ---
 
-#Network Lab Topology
+# Network Lab Topology
 
                 Virtual Lab Network
         ------------------------------------
