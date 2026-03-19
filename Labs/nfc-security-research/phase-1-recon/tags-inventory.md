@@ -17,9 +17,9 @@ Las fotos de evidencia se encuentran en la carpeta assets/.
 
 | # | Chip | UID | Tech | ATQA | SAK | Estado | Evidencia |
 |---|------|-----|------|------|-----|--------|-----------|
-| 1 | NTAG215 | 04:AA:F2:3F:C8:2A:81 | ISO 14443-3 (NFC-A) | 00:44 | 00 | Virgen | [foto](../assets/tag-01.jpg) |
-| 2 | NTAG215 | 04:D1:5B:30:C9:2A:81 | ISO 14443-3 (NFC-A) | 00:44 | 00 | Virgen | [foto](../assets/tag-02.jpg) |
-| 3 | NTAG215 | 04:5B:A1:3D:C8:2A:81 | ISO 14443-3 (NFC-A) | 00:44 | 00 | Virgen | [foto](../assets/tag-03.jpg) |
+| 1 | NTAG215 | 04:AA:F2:3F:C8:2A:81 | ISO 14443-3 (NFC-A) | 00:44 | 00 | Virgen | [foto](../assets/tag-01.png) |
+| 2 | NTAG215 | 04:D1:5B:30:C9:2A:81 | ISO 14443-3 (NFC-A) | 00:44 | 00 | Virgen | [foto](../assets/tag-02.png) |
+| 3 | NTAG215 | 04:5B:A1:3D:C8:2A:81 | ISO 14443-3 (NFC-A) | 00:44 | 00 | Virgen | [foto](../assets/tag-03.png) |
 
 ---
 
