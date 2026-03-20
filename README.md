@@ -1,4 +1,4 @@
-# 👨‍💻 Guillermo Hernández — Cybersecurity Portfolio
+# Guillermo Hernández — Cybersecurity Portfolio
 
 Ingeniero en Inteligencia de Datos y Ciberseguridad (carrera concluida, titulación en proceso) — Universidad Panamericana.
 
@@ -6,19 +6,19 @@ Enfocado en ciberseguridad ofensiva y defensiva, con experiencia práctica en SO
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
-- 🎓 Ingeniería en Inteligencia de Datos y Ciberseguridad — Universidad Panamericana  
-- 📊 Especialidad en Dirección de Operaciones (en curso)  
-- 🛡️ Experiencia en SOC (Mnemo): monitoreo, análisis de alertas y gestión de vulnerabilidades  
-- 🏆 Finalista en CSAW CTF (NYU) con equipo universitario  
-- 🔍 Desarrollo constante mediante labs, CTFs y proyectos personales  
+- Ingeniería en Inteligencia de Datos y Ciberseguridad — Universidad Panamericana  
+- Especialidad en Dirección de Operaciones (en curso)  
+- Experiencia en SOC (Mnemo): monitoreo, análisis de alertas y gestión de vulnerabilidades  
+- Finalista en CSAW CTF (NYU) con equipo universitario  
+- Desarrollo constante mediante labs, CTFs y proyectos personales  
 
-💻 **Entorno principal:** Linux (Fedora, Kali, Parrot OS)
+ **Entorno principal:** Linux (Fedora, Kali, Parrot OS)
 
 ---
 
-## 🎯 Enfoque técnico
+## Enfoque técnico
 
 - Análisis de tráfico de red y detección de actividad sospechosa  
 - Resolución de retos tipo CTF (forensics, OSINT, web, crypto)  
@@ -28,30 +28,30 @@ Enfocado en ciberseguridad ofensiva y defensiva, con experiencia práctica en SO
 
 ---
 
-## ⚙️ Skills técnicos
+## Skills técnicos
 
-### 🔐 Seguridad / Redes
+### Seguridad / Redes
 - Escaneo y enumeración con `Nmap`
 - Análisis de tráfico con `Wireshark` y `tcpdump`
 - Uso de `Metasploit` en entornos controlados
 - Captura de handshakes WPA/WPA2 en laboratorio
 - Análisis básico de vulnerabilidades
 
-### 🟦 SOC / Blue Team
+### SOC / Blue Team
 - Monitoreo de alertas en SIEM  
 - Identificación de falsos positivos  
 - Análisis de autenticaciones sospechosas y tráfico anómalo  
 - Gestión básica de vulnerabilidades  
 
-### 🛠️ Herramientas
+### Herramientas
 `Nmap` `Metasploit` `Wireshark` `tcpdump` `Aircrack-ng` `Hashcat` `Parrot OS` `Kali Linux` `Fedora`
 
 ### 💻 Lenguajes
-`Python` `Bash` `SQL` (básico)
+`Python` `Bash` 
 
 ---
 
-## 🏁 CTF Experience
+## CTF Experience
 
 | Competencia | Resultado |
 |------------|----------|
@@ -60,11 +60,11 @@ Enfocado en ciberseguridad ofensiva y defensiva, con experiencia práctica en SO
 | deadfaceCTF | Participación |
 | UDCTF | Participación |
 
-📂 Categorías: `Forensics` `OSINT` `Crypto` `Web` `Misc`
+Categorías: `Forensics` `OSINT` `Crypto` `Web` `Misc`
 
 ---
 
-## 📁 Contenido del repositorio
+## Contenido del repositorio
 Portafolio-Cyber/
 ├── Labs/ # Laboratorios documentados paso a paso
 ├── CTFs/ # Resolución de retos (writeups)
@@ -73,52 +73,52 @@ Portafolio-Cyber/
 
 ---
 
-## 🔬 Labs destacados
+## Labs destacados
 
-### 🔓 Metasploitable 2 Pentest
+### Metasploitable 2 Pentest
 Explotación de servicios vulnerables, privilege escalation y documentación completa.
 
-### 🏠 Home Network Pentest  
-👉 https://github.com/memo099/home-network-pentest  
+### Home Network Pentest  
+https://github.com/memo099/home-network-pentest  
 Reconocimiento, escaneo de red, enumeración de servicios y análisis de riesgos.
 
-### 📡 WiFi WPA Handshake Lab  
+### WiFi WPA Handshake Lab  
 Captura de handshakes en entorno controlado usando Parrot OS y adaptador en modo monitor.
 
 ---
 
-## 📜 Certificaciones
+## Certificaciones
 
-- 🧠 **Hack The Box Academy**
+- **Hack The Box Academy**
   - Intro a Pentesting  
   - Redes  
   - Manejo de Incidentes  
   - Nmap  
   - Web Requests  
 
-- 🌐 **Cisco**
+- **Cisco**
   - Fundamentos de Ciberseguridad  
   - CCNA: Introducción a Redes  
 
-- 🛡️ **ISC2**
+- **ISC2**
   - Mitigación de Incidentes & Reporte de Brechas  
 
-- 🎓 **Udemy**
+- **Udemy**
   - Practical Hacking & Security Testing  
 
-- 💼 **Microsoft**
+- **Microsoft**
   - Ciberseguridad en el Trabajo  
 
-- 🧪 **TryHackMe**
+- **TryHackMe**
   - Ruta de aprendizaje en ciberseguridad práctica  
 
-- 📊 **Google**
+- **Google**
   - Google Cybersecurity Certificate (Coursera)  
 
 ---
 
-## 📬 Contacto
+## Contacto
 
-- 💻 GitHub: https://github.com/memo099  
-- 🔗 LinkedIn: https://www.linkedin.com/in/guillermo-alejandro-hernandez-sosa-a2744429a  
-- 📧 Email: ghsosa02@gmail.com  
+- GitHub: https://github.com/memo099  
+- LinkedIn: https://www.linkedin.com/in/guillermo-alejandro-hernandez-sosa-a2744429a  
+- Email: ghsosa02@gmail.com  
