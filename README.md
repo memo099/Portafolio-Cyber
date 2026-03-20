@@ -1,4 +1,4 @@
-# Guillermo "Memo" Hernández — Cybersecurity Portfolio
+# Guillermo Hernández — Cybersecurity Portfolio
 
 Estudiante de Ingeniería en Ciberseguridad en la Universidad Panamericana (Querétaro).
 Me enfoco en seguridad ofensiva, investigación de hardware, y CTF competitions.
