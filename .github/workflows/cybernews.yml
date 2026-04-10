@@ -1,0 +1,27 @@
+name: CyberNews Bot
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 8am México (UTC-6)
+    - cron: '0 22 * * *'   # 4pm México (UTC-6)
+  workflow_dispatch:         # permite correrlo manual desde GitHub
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scripts/cybernews-bot/requirements.txt
+
+      - name: Run bot
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/cybernews-bot/cybernews_bot.py
