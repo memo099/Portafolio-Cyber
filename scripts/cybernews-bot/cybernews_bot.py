@@ -107,12 +107,12 @@ def send_telegram(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     chunks = [text[i:i+4000] for i in range(0, len(text), 4000)]
     for chunk in chunks:
-        requests.post(url, json={
+        r = requests.post(url, json={
             "chat_id": int(TELEGRAM_CHAT_ID),
             "text": chunk,
             "parse_mode": "Markdown"
         })
-
+        print(f"Telegram response: {r.status_code} - {r.text}")
 
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
