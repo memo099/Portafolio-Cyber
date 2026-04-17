@@ -31,7 +31,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-        run: python scripts/news-bot/news_bot.py
+        run: python3 scripts/news-bot/news_bot.py
       
       - name: Log execution
         if: always()
